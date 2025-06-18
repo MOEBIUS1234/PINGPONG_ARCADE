@@ -1,7 +1,7 @@
 //EDITOR'S NOTE
 
 this game has a simple approach to everything, but what makes this game special is the impact it had on the arcade world, the retro theme sounds make it cooler to make and interesting.
-Following are the concepts i used to the project, just make sure you have pygame in your system, is you dont run this in your terminal "pip install pygame" , and you will be good to do, you 
+Following are the concepts i used to the project, just make sure you have pygame in your system, if you dont run this in your terminal "pip install pygame" , and you will be good to do, you 
 do not need anything else!
 
 Arcade Game Overview
